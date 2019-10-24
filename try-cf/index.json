@@ -3,34 +3,20 @@
   "description": "This tutorial provides a brief introduction to deploying applications to the Cloud Foundry platform.",
   "difficulty": "Beginner",
   "time": "30",
+  "private": true,
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
+        "title": "CLI",
+        "text": "content/cli.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "content/intro.md",
+      "courseData": "scripts/install-cli.sh"
     },
     "finish": {
-      "text": "finish.md"
+      "text": "content/finish.md"
     }
   },
   "environment": {
