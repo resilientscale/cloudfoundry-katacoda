@@ -7,8 +7,12 @@
   "details": {
     "steps": [
       {
-        "title": "CLI",
+        "title": "The Command Line Interface",
         "text": "content/cli.md"
+      },
+      {
+        "title": "Pushing an app",
+        "text": "content/push.md"
       }
     ],
     "intro": {
@@ -17,6 +21,12 @@
     },
     "finish": {
       "text": "content/finish.md"
+    },
+    "assets": {
+      "client": [
+          {"file": "assets/first-push-app.zip", "target": "/usr/local/bin/", "chmod": "+r"},
+          {"file": "assets/manifest.yml", "target": "/usr/local/bin/", "chmod": "+r"}
+      ]
     }
   },
   "environment": {
@@ -26,3 +36,4 @@
     "imageid": "ubuntu1904"
   }
 }
+

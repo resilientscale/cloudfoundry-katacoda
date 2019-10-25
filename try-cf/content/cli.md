@@ -12,7 +12,7 @@ The CLI is a self-documenting tool. For example, you can run:
 
 * `cf help`{{execute}} to see a list of the most commonly used commands
 * `cf help -a`{{execute}} to see a list of all the available commands
-* `cf <command> --help`{{execute}} to see details on using a specific command
+* `cf <command> --help` to see details on using a specific command
 
 ## Logging in
 

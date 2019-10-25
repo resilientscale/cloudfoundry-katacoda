@@ -1,0 +1,10 @@
+---
+applications:
+- name: first-push
+  instances: 1
+  memory: 32M
+  buildpacks:
+  - go_buildpack
+  path: ./first-push-app.zip
+  env:
+    GOPACKAGENAME: github.com/rscale-training/training-app
