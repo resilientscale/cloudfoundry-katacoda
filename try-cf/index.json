@@ -8,19 +8,19 @@
     "steps": [
       {
         "title": "The Command Line Interface",
-        "text": "content/cli.md"
+        "text": "cli.md"
       },
       {
         "title": "Pushing an app",
-        "text": "content/push.md"
+        "text": "push.md"
       }
     ],
     "intro": {
-      "text": "content/intro.md",
-      "courseData": "scripts/install-cli.sh"
+      "text": "intro.md",
+      "courseData": "install-cli.sh"
     },
     "finish": {
-      "text": "content/finish.md"
+      "text": "finish.md"
     },
     "assets": {
       "client": [
