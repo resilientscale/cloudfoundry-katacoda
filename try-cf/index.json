@@ -24,8 +24,8 @@
     },
     "assets": {
       "client": [
-          {"file": "assets/first-push-app.zip", "target": "~/"},
-          {"file": "assets/manifest.yml", "target": "~/"}
+          {"file": "first-push-app.zip", "target": "~/"},
+          {"file": "manifest.yml", "target": "~/"}
       ]
     }
   },
@@ -33,7 +33,7 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu1904"
+    "imageid": "ubuntu1804"
   }
 }
 
