@@ -24,8 +24,8 @@
     },
     "assets": {
       "client": [
-          {"file": "first-push-app.zip", "target": "/root"},
-          {"file": "manifest.yml", "target": "/root"}
+          {"file": "first-push-app.zip", "target": "~/"},
+          {"file": "manifest.yml", "target": "~/"}
       ]
     }
   },
