@@ -24,8 +24,8 @@
     },
     "assets": {
       "client": [
-          {"file": "assets/first-push-app.zip", "target": "/usr/local/bin/", "chmod": "+r"},
-          {"file": "assets/manifest.yml", "target": "/usr/local/bin/", "chmod": "+r"}
+          {"file": "assets/first-push-app.zip", "target": "~/", "chmod": "+r"},
+          {"file": "assets/manifest.yml", "target": "~/", "chmod": "+r"}
       ]
     }
   },
