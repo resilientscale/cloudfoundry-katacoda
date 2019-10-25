@@ -23,7 +23,7 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [
+      "host01": [
           {"file": "first-push-app.zip", "target": "~/"},
           {"file": "manifest.yml", "target": "~/"}
       ]
