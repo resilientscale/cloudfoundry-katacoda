@@ -22,6 +22,12 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+          {"file": "first-push-app.zip", "target": "/root/"},
+          {"file": "manifest.yml", "target": "/root/"}
+      ]
     }
   },
   "environment": {
