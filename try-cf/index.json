@@ -17,7 +17,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "install-cli.sh"
+      "courseData": "install-cli.sh",
+      "code": "foreground-setup.sh"
     },
     "finish": {
       "text": "finish.md"
