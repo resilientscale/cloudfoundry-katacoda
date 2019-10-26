@@ -2,7 +2,7 @@
   "title": "Try Cloud Foundry",
   "description": "This tutorial provides a brief introduction to deploying applications to the Cloud Foundry platform.",
   "difficulty": "Beginner",
-  "time": "30",
+  "time": "15",
   "private": true,
   "details": {
     "steps": [
@@ -21,12 +21,6 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "host01": [
-          {"file": "first-push-app.zip", "target": "~/"},
-          {"file": "manifest.yml", "target": "~/"}
-      ]
     }
   },
   "environment": {
